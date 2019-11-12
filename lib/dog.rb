@@ -4,9 +4,9 @@ class Dog
     puts "Woof!"
   end
   
-  def set_name
+  def name=(dog_name)
   end
   
-  def get_name
+  def name
   end
 end
